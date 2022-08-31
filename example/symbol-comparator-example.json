@@ -1,0 +1,9 @@
+{
+	"filename": "example",
+	"fileA": {
+		"path": "example/build/pgmA.exe"
+	},
+	"fileB": {
+		"path": "example/build/pgmB.exe"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"filename": "template",
+	"fileA": {
+		"path": "..."
+	},
+	"fileB": {
+		"path": "..."
+	}
+}
